@@ -12,28 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me:
-My name is Athira  Cherukunnam Arumughan and I am currently enrolled into Full Stack Web Development Diploma Program at University of Alberta and starting my coding journey in Web Development.
+# 👋 Hi, I'm Athira Arumughan
+### 🌱 Full Stack Developer in Training | Passionate About Building Real-World Applications
 
-## Education
-+ Diploma in Full Stack Web Development from University of Alberta (April 2024 - Present).
-+ Certificate program in Technology Support Professional from BCIT, Vancouver, BC (Sep 2020 - July 2021).
-+ Bachelor of Electronics and Communication Engineering from Anna University, Chennai, India (2012 - 2016).
+Welcome to my GitHub! I'm currently on a journey to master full stack development by building hands-on projects using **modern technologies** across the web development stack.
 
-## Certification
-COMPTIA Network+
+## 🚀 What I'm Learning
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, MUI
+- **Backend:** Python, Django
+- **Database:** PostgreSQL, MySQL, SQLite, MongoDB
+- **Other Tools:** Git & GitHub, REST APIs, Docker, VS Code, Postman
 
-## Career
-- Service Desk Analyst at Compugen, Calgary, AB (May 2022 - Present).
-- Service Desk Analyst Intern at FCC, Regina, SK (April 2021 - May 2021).
-- Mainframe Developer at DXC Technology, Chennai, India (Nov 2016 - Aug 2018).
 
-## Tech Projects
-* Installed, configured, and administered Windows Server as Software NAT Router, Domain Controller, DNS, DHCP, File Server, WDS and WSUS.
-* Installed, configured, and administered Windows 10, Windows Server 2016/2019 and Linux, Office 365, and Mobile Device Management.
-* Implemented a fully automated, customized Windows 10 image.
-* Created a fully redundant infrastructure using Failover Clustering.
-* Implemented multi-forest domain environments, created, and managed Active Directory Users and Organizational Units, configured GPO, Remote Management, and file shares and folder permissions, DHCP, DNS Service, File Server Failover Cluster, set Permissions, Security Groups for folder access Windows Deployment Services and Windows Server Update Services.
+I'm always working on improving my coding style, writing clean reusable components, and learning to architect scalable applications.
+
+
+
+
+
+
 
 
 
